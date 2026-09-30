@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+#count {
+    font-size: 50px;
+    color: brown;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 5px;
+    cursor: pointer;
+    color: blue;
+    background-color: aliceblue;
+}
